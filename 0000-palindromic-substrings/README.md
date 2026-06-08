@@ -1,6 +1,6 @@
 # 0000. Palindromic Substrings
 
-**Difficulty:** Medium &nbsp;|&nbsp; **Language:** Python &nbsp;|&nbsp; **Date:** 2026-05-27
+**Difficulty:** Medium &nbsp;|&nbsp; **Language:** Python &nbsp;|&nbsp; **Date:** 2026-06-08
 
 [🔗 LeetCode](https://leetcode.com/problems/palindromic-substrings/) &nbsp;·&nbsp; [💻 Code](./0000-palindromic-substrings.py) &nbsp;·&nbsp; [🧠 AI Analysis](./notes.md)
 
@@ -11,7 +11,7 @@
 | Metric | Result | Percentile |
 |--------|--------|------------|
 | 🚀 Runtime | 0 ms | — |
-| 🧠 Memory  | 19.3 MB  | —  |
+| 🧠 Memory  | 19.2 MB  | —  |
 
 ---
 
